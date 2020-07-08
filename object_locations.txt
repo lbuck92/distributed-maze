@@ -1,0 +1,21 @@
+Upstairs new computer locations of objects
+
+Single Player Maze:
+Phone Booth: x = -4.5, z = 4
+Snowman: x = -4.5, z = 0
+Car: x = -4.5, z = -1.5
+Table and Chair: x = -1.75, z = -4.5
+Clock: x = -0.75, z = 2.5
+Well: x = 2.8, z = 1.8
+Guitar: x = 2.8, z = -1
+Treasure Chest: x = 2.25, z = -4.5
+
+Distributed Maze:
+Clock: x = 3, z = -4.5
+Table and Chair: x = 3.5, z = -0.25
+Guitar: x = 3.15, z = 1.25
+Well: x = 0, z = 4.25
+Snowman: x = -0.65, z = -2.75
+Phonebooth: x = -4, z = -2.25
+Treasure Chest: z= -4.25, z = 0.75
+Car: x = -4, z = 4.25
